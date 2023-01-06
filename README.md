@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter: Prashantdp7](https://img.shields.io/twitter/follow/prashantdp7?style=social)](https://twitter.com/prashantdp7)
-[![Linkedin: D Prashant](https://www.linkedin.com/in/prashant-d-7a3915249/)](https://www.linkedin.com/in/prashant-d-7a3915249/)
+[![Linkedin: D Prashant](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-d-7a3915249/)](https://www.linkedin.com/in/prashant-d-7a3915249/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
