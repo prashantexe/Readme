@@ -12,13 +12,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const Prashant = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Styled-Components, Adobe, Figma, Canva],
   techCommunities: {
                         cofounder: "Gryffindors",
                         UI UX Designer: "Gryffindors",
+                        member: JEDI Community
                       },
  challenge: "I am doing the #10DaysOfCode challenge focused on javascript and further will be focusing on Reactjs"
 }
